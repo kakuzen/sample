@@ -1,6 +1,0 @@
-# sample
-sample
-
-##testです
-
-*テスト
